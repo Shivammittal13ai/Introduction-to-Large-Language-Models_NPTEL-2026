@@ -62,7 +62,8 @@ This repository is created to help learners by:
 - Questions were primarily drawn from the **Jan–Apr 2026 session** assignments and the immediately preceding session **(Jul–Oct 2025)**.
 - Only **one code snippet-based question** appeared in the entire exam, it was in MSQ format and was notably challenging.
 - **MSQs were the toughest section**, not directly based on assignments. Thorough conceptual understanding is required.
-- Among the 8 numericals, the **last 2 followed an integer-based pattern** and were drawn from general topics rather than any specific assignment topic.
+- Among the **8 numericals**, the **last 2 followed an integer-based pattern** and were drawn from general topics rather than any specific assignment topic.
+
 - 🆕 **Emerging Trend:** Questions are increasingly being drawn from **both the current session and the immediately previous session's assignments**, especially for numericals. Preparing at least the last two sessions' assignments is strongly advised.
 
 ---
