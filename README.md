@@ -1,8 +1,12 @@
 # Introduction to Large Language Models (LLMs) – SWAYAM NPTEL | IIT Delhi & IIT Bombay (Assignments, Notes & Final Exam Review)
 
-📘 This repository contains **assignments** from the **Introduction to Large Language Models (LLMs)** course offered by **IIT Delhi & IIT Bombay** in collaboration with **SWAYAM-NPTEL** in the years **2025** and **2026**, along with the **official lecture notes** shared during the **Jan-Apr 2026 session** by the instructor.
+📘 This repository contains the following materials from the **Introduction to Large Language Models (LLMs)** course offered by **IIT Delhi & IIT Bombay** in collaboration with **SWAYAM-NPTEL**:
 
-🧾 It also includes a **final exam review and analysis** for the **Jan-Apr 2026 session**, covering the **exam pattern and key insights**, designed to help future learners understand the paper format and prepare effectively.
+- **Assignments** from the **Jan–Apr 2025**, **Jul–Oct 2025**, and **Jan–Apr 2026** sessions.
+- **Official lecture notes** from the **Jan–Apr 2026 session** shared by the instructor.
+- **Final exam review and analysis** for the **Jan–Apr 2026 session**, covering the **exam pattern and key insights**, designed to help future learners understand the paper format and prepare effectively.
+- **Official course syllabus** — 📄 [View Syllabus (PDF)](https://archive.nptel.ac.in/content/syllabus_pdf/106102576.pdf)
+- **Problem-solving session links** (Week 2–12) from the **Jan–Apr 2026 session**, organized week-wise — 📊 [View Session Links](https://docs.google.com/spreadsheets/d/1Uj8WD2BBl2i2PPkvNG7318NqsdgV2U2MzUmVBBBJA3Q/edit?gid=0#gid=0)
 
 ---
 
@@ -10,9 +14,10 @@
 
 This repository is created to help learners by:
 
-- Providing assignments from multiple NPTEL sessions (2020, 2025, & 2026) for quick revision and reference.
-- Sharing official lecture notes and transcripts of each lecture from the 2026 session for reference.
+- Providing assignments from multiple NPTEL sessions (2025, & 2026) for quick revision and reference.
+- Sharing official lecture notes from the Jan-Apr 2026 session for reference.
 - Providing insights into the final exam pattern and key preparation areas from the Jan-Apr 2026 session.
+- Providing official course syllabus & problem-solving sesions links for structured learning and better exam preparation.
 
 ---
 
@@ -20,30 +25,47 @@ This repository is created to help learners by:
 
 | Field | Details | 
 |---|---| 
-| **Course** | Fuzzy Sets, Logic and Systems & Applications | 
+| **Course** | Introduction to Large Language Models (LLMs) | 
 | **Platform** | SWAYAM – NPTEL | 
-| **Institute** | IIT Kanpur | 
-| **Instructor** | Prof. Nishchal Kumar Verma | 
+| **Institute** | IIT Delhi & IIT Bombay | 
+| **Instructor** | Prof. Tanmoy Chakraborty & Prof. Soumen Chakraborti | 
 | **Duration** | 12 Weeks | 
-| **Course Link** | https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_ee38 |
+| **Course Link** | https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_cs88 |
+
+> 💡 **Note:** This course started in **2025** and is typically offered **twice a year**: once during the **Jan–Apr session** and once during the **Jul–Oct session**.
 
 ---
 
-## 💡 Final Exam Review (Session: Jan-Apr 2026, Shift: Forenoon)
+## 💡 Final Exam Review (Session: Jan-Apr 2026, Shift: Afternoon)
 
 ### 🧠 Key Insights & Exam Pattern:
 
-- The examination was **heavily numerical-oriented**, with a significant portion of questions requiring conceptual problem-solving rather than direct theory recall.
-- The overall pattern was **closely aligned with the assignments**, making them the most reliable preparation resource. However, some numerical questions went slightly beyond the assignments, though they were from **expected and straightforward topics**.
-  
-- **High priority topics for numericals:**
-  - Alpha-cut & Strong Alpha-cut.
-  - Crossover Points, Core, Support & Boundary Points.
-  - Laws & Properties of Fuzzy Sets.
-  - Linguistic Modifiers: DIL(), CON(), INT(), Very, More or Less, Extreme, Not Very.
-- **Assignment 12 deserves special attention**, approximately 4 questions were directly based on its numericals. Note that these were among the **tougher questions** in the paper, so thorough practice is strongly recommended.
-- **A notable trend observed:**
-   Questions are now being drawn from **both the current session and the immediately previous session's assignments**, especially for numericals/problem-solving questions.
+#### 📊 Exam Overview
+
+| Field | Details |
+|---|---|
+| **Total Questions** | 50 |
+| **Marks per Question** | 2 |
+| **Total Marks** | 100 |
+| **Negative Marking** | ❌ None |
+
+#### 📝 Question Distribution
+
+| Type | Count | Notes |
+|---|---|---|
+| **MCQ** (Single correct) | 30 | Straightforward, assignment-based |
+| **MSQ** (Multiple correct) | 12 | Tough, not directly from assignments |
+| **Numerical** | 8 | Calculation-based; last 2 required direct integer input |
+
+> ⚠️ **Note on MSQ Marking:** The marking scheme for MSQs works differently, partial marking may apply. Read instructions carefully before attempting.
+
+#### 🔑 Key Observations
+
+- Questions were primarily drawn from the **Jan–Apr 2026 session** assignments and the immediately preceding session **(Jul–Oct 2025)**.
+- Only **one code snippet-based question** appeared in the entire exam, it was in MSQ format and was notably challenging.
+- **MSQs were the toughest section**, not directly based on assignments. Thorough conceptual understanding is required.
+- Among the 8 numericals, the **last 2 followed an integer-based pattern** and were drawn from general topics rather than any specific assignment topic.
+- 🆕 **Emerging Trend:** Questions are increasingly being drawn from **both the current session and the immediately previous session's assignments**, especially for numericals. Preparing at least the last two sessions' assignments is strongly advised.
 
 ---
 
@@ -72,7 +94,7 @@ It helps the repository reach more learners and supports future improvements.
 
 This repository is intended **strictly for educational and non-commercial use only**.  
 
-- All assignments and lecture notes are the intellectual property of **SWAYAM–NPTEL**, **IIT Kanpur**, and the **respective instructor(s)**.  
+- All assignments and lecture notes are the intellectual property of **SWAYAM–NPTEL**, **IIT Delhi & IIT Bombay**, and the **respective instructor(s)**.  
 - This repository does **not claim any ownership** over the content. It is shared with the intent to help fellow students revise and learn better.  
 
 > If any copyright holder or official authority requests content removal, the content will be removed immediately.
