@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="ChatGPT Image May 25, 2026, 04_42_05 PM" src="https://github.com/user-attachments/assets/be9d148e-df20-4e60-a4b1-577c2ea9b5d7" />
+
+
 # Introduction to Large Language Models (LLMs) – SWAYAM NPTEL | IIT Delhi & IIT Bombay (Assignments, Notes & Final Exam Review)
 
 📘 This repository contains the following materials from the **Introduction to Large Language Models (LLMs)** course offered by **IIT Delhi & IIT Bombay** in collaboration with **SWAYAM-NPTEL**:
