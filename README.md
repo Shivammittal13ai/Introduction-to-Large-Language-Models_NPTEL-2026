@@ -4,7 +4,7 @@
 
 - **Assignments** from the **Jan–Apr 2025**, **Jul–Oct 2025**, and **Jan–Apr 2026** sessions.
 - **Official lecture notes** from the **Jan–Apr 2026 session** shared by the instructor.
-- **Final exam review and analysis** for the **Jan–Apr 2026 session**, covering the **exam pattern and key insights**, designed to help future learners understand the paper format and prepare effectively.
+- **Final exam review and analysis** for the **Jan–Apr 2026 session**, covering the **exam overview, question distribution and key observations**, designed to help future learners understand the paper format and prepare effectively.
 - **Official course syllabus** — 📄 [View Syllabus (PDF)](https://archive.nptel.ac.in/content/syllabus_pdf/106102576.pdf)
 - **Problem-solving session links** (Week 2–12) from the **Jan–Apr 2026 session**, organized week-wise — 📊 [View Session Links](https://docs.google.com/spreadsheets/d/1Uj8WD2BBl2i2PPkvNG7318NqsdgV2U2MzUmVBBBJA3Q/edit?gid=0#gid=0)
 
@@ -38,9 +38,7 @@ This repository is created to help learners by:
 
 ## 💡 Final Exam Review (Session: Jan-Apr 2026, Shift: Afternoon)
 
-### 🧠 Key Insights & Exam Pattern:
-
-#### 📊 Exam Overview
+### 📊 Exam Overview:
 
 | Field | Details |
 |---|---|
@@ -49,7 +47,7 @@ This repository is created to help learners by:
 | **Total Marks** | 100 |
 | **Negative Marking** | ❌ None |
 
-#### 📝 Question Distribution
+### 📝 Question Distribution:
 
 | Type | Count | Notes |
 |---|---|---|
@@ -59,7 +57,7 @@ This repository is created to help learners by:
 
 > ⚠️ **Note on MSQ Marking:** The marking scheme for MSQs works differently, partial marking may apply. Read instructions carefully before attempting.
 
-#### 🔑 Key Observations
+### 🔑 Key Observations:
 
 - Questions were primarily drawn from the **Jan–Apr 2026 session** assignments and the immediately preceding session **(Jul–Oct 2025)**.
 - Only **one code snippet-based question** appeared in the entire exam, it was in MSQ format and was notably challenging.
